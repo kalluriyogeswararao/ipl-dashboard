@@ -1,1 +1,5 @@
-/* Write your CSS here */
+.not-found {
+  font-family: 'bree-serif';
+  font-size: 50px;
+  color: #ffffff;
+}
